@@ -47,3 +47,4 @@ Este repositorio es **público**. Todo el equipo y los agentes de IA colaborador
 ## 🤖 Pautas para Agentes de IA
 
 Si eres un agente de IA interactuando con esta base de código, consulta obligatoriamente [agents.md](file:///c:/Users/Kike/Desktop/CRM/agents.md) antes de proponer cambios, generar código o realizar commits.
+

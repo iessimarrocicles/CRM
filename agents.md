@@ -92,3 +92,4 @@ Antes de autorizar o ejecutar un `git push` al repositorio público remoto:
 - [ ] ¿Todas las variables nuevas están registradas en `.env.example` con valores de muestra?
 - [ ] ¿Las reglas de seguridad de Firestore no tienen permisos abiertos globales?
 - [ ] ¿Los tests o comprobaciones de compilación pasan localmente?
+
